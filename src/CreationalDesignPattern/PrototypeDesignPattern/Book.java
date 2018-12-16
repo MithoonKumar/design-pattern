@@ -1,4 +1,4 @@
-package PrototypeDesignPattern;
+package CreationalDesignPattern.PrototypeDesignPattern;
 
 public class Book {
     private int bId;

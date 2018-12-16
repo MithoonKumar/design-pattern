@@ -1,4 +1,4 @@
-package AdapterDesignPattern;
+package StructuralDesignPattern.AdapterDesignPattern;
 
 public class AdpaterClass implements Pen {
 

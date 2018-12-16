@@ -1,4 +1,4 @@
-package CompositeDesignPattern;
+package StructuralDesignPattern.CompositeDesignPattern;
 
 public class FinancialDepartment implements Department{
 

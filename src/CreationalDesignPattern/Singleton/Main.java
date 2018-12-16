@@ -1,6 +1,5 @@
-package CreationalDesignPattern;
+package CreationalDesignPattern.Singleton;
 
-import CreationalDesignPattern.Singleton.Singleton;
 
 public class Main {
     public static void main(String[] args) {
